@@ -2,6 +2,7 @@
   "name": "telegram-vercel-bot",
   "version": "1.0.0",
   "type": "module",
+  "private": true,
   "dependencies": {
     "node-telegram-bot-api": "^0.66.0"
   }
